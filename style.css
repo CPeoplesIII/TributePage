@@ -1,0 +1,30 @@
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Raleway"/>
+#main {
+  background: lightGray;
+  font-family: 'Raleway', Georgia;
+  flex-wrap: wrap;
+}
+.top {
+  text-align: center;
+}
+#img-div {
+display: flex;
+align-items: center;
+  flex-direction: column;
+}
+#image {
+  max-width: 80%;
+}
+#tribute-info {
+  text align: center;
+}
+.timeline-list {
+  max-width: 500px;
+  min-width: 200px;
+  display: inline-block;
+  text-align: left;
+
+}
+.bottom {
+  text-align: center;
+}
